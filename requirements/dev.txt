@@ -15,3 +15,4 @@ requests>=2.11.1
 
 # CLI requirements
 docopt>=0.6.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
